@@ -60,3 +60,15 @@ docker-compose up
 ```bash
 make unit_test
 ```
+
+
+#no terminal > docker images
+#docker rmi tiagotele/python_api -f
+#make docker_build
+#docker-compose up
+#make call_home_10_times
+#make call_about_10_times
+#make call_about_10_times 6x para dar o alert
+#docker ps -a
+#docker stop grafana
+#docker ps -a
